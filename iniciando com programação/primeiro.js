@@ -2,6 +2,10 @@
 
 console.log('Olá mundo');
 
+
+
+
+
 // Bloco de código
 
 
